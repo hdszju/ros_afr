@@ -1,3 +1,9 @@
+# Configure / APP_KEY
+*.cfg
+
+# TMP Media file
+*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
